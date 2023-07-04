@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@kolkov/ngx-gallery": "^2.0.1",
+    "bootstrap": "^5.3.0",
+    "font-awesome": "^4.7.0",
+    "ngx-bootstrap": "^10.2.0",
+    "ngx-gallery": "^5.10.0"
+  }
+}
